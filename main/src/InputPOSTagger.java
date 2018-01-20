@@ -1,3 +1,5 @@
+// This program will parse the user input and tag the proper POS.
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
