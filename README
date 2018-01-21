@@ -13,9 +13,7 @@
 |                                                                              |
 ================================================================================
 
-1:43 AM: I FINALLY FIGURED OUT HOW TO ADD OPEN SOURCE LIBRARIES AND CAN USE OPENNLP.
-         
-	 My mood right now:
-             https://www.youtube.com/watch?v=XUhVCoTsBaM
-
-
+Description: This program is a translator that converts modern English to Old English.  
+This translator is based on open nlp, or open natural language processing. 
+This is useful for students learning the difference between active/passive voice 
+and studying synta and sentence structure by comparing Old English to Modern English.  
