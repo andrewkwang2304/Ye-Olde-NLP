@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.FileInputStream;
+import opennlp.tools.postag.POSModel;
 
 public class InputPOSTagger {
     public static void main(String[] args) throws FileNotFoundException, IOException{
